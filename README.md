@@ -1,8 +1,4 @@
-<p align="center">
-<img src="http://icons.iconarchive.com/icons/icojam/blue-bits/64/globe-search-icon.png" width="64"/>
-</p>
-
-# international-anniversary
+# international-anniversary <img src="http://icons.iconarchive.com/icons/icojam/blue-bits/64/globe-search-icon.png" width="32"/>
 > Simple chrome extension that displays the specific International Observance/Anniversary for the current day.
 
 <p align="center">
