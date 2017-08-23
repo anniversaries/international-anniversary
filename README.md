@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://icons.iconarchive.com/icons/icojam/blue-bits/128/globe-search-icon.png" width="128"/>
+<img src="http://icons.iconarchive.com/icons/icojam/blue-bits/64/globe-search-icon.png" width="64"/>
 </p>
 
 # international-anniversary
