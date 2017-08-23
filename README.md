@@ -4,3 +4,6 @@
 <p align="center">
 <img src="https://i.gyazo.com/2067fa8af7536bd167b07c03b9732884.png" />
 </p>
+
+### Credits
+Many thanks to http://www.iconarchive.com which provided the logo for this extension.

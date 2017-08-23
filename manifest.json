@@ -1,20 +1,21 @@
 {
  "manifest_version": 2,
  "name": "International Anniversary",
- "description": "This extension displays the specific International Observance/Anniversary for the current day.",
- "version": "0.1",
+ "short_name": "JubileeToday",
+ "description": "What is the world celebrating today?",
+ "version": "0.2",
+
+ "author": "Thodoris Bais",
+
  "browser_action": {
   "default_icon": "icon48.png",
   "default_popup": "popup.html",
-  "default_title": "International Anniversary"
+  "default_title": "International Anniversary",
+  "default_locale": "en"
  },
  "icons": {
   "16": "icon16.png",
   "48": "icon48.png",
   "128": "icon128.png"
- },
- "permissions": [
-  "activeTab",
-  "https://ajax.googleapis.com/"
- ]
+ }
 }

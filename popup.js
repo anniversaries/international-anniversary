@@ -3,7 +3,7 @@ function getAnniversaryForDayOfMonth(dayAndMonth) {
   var registeredAnniversaries = {
     "January 1":"New Year's Day",
     "January 4":"World Braille Day",
-    "January 11":"International Parity at Work Day[2]",
+    "January 11":"International Parity at Work Day",
     "January 18":"International Religion Day",
     "January 23":"International Freedom Day",
     "January 26":"International Fisherman Day, International Environmental Education Day,International Customs Day",
@@ -20,36 +20,36 @@ function getAnniversaryForDayOfMonth(dayAndMonth) {
     "February 15":"World Cholangiocarcinoma Day",
     "February 20":"World Day of Social Justice",
     "February 21":"International Mother Language Day",
-    "February 22":"A Day Without News[3]",
+    "February 22":"A Day Without News",
     "February 24":"Defend the Donut Day",
-    "February 27":"World NGO Day[4][5]",
-    "March 1":"World Civil Defence Day[6]",
+    "February 27":"World NGO Day",
+    "March 1":"World Civil Defence Day",
     "March 3":"World Wildlife Day",
     "March 8":"International Women's Day",
     "March 15":"World Consumer Rights Day World Contact Day",
-    "March 20":"World Oral Health Day[7], International Day of Francophonie[8], International Day of Happiness, World Sparrow Day[9]",
+    "March 20":"World Oral Health Day, International Day of Francophonie, International Day of Happiness, World Sparrow Day",
     "March 21":"International Day for the Elimination of Racial Discrimination, World Poetry Day, International Day of Nowruz, World Down Syndrome Day, World Puppetry Day, International Day of Forests",
     "March 22":"World Water Day",
     "March 23":"World Meteorological Day",
-    "March 24":"World Tuberculosis Day[10]",
-    "March 25":"International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade, observance of National Genocide Day[11]",
+    "March 24":"World Tuberculosis Day",
+    "March 25":"International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade, observance of National Genocide Day",
     "March 27":"International launch of Global Money Week, World Theatre Day",
     "April 1":"World April Fools' Day",
     "April 2":"World Autism Awareness Day, International Children's Book Day",
-    "April 7":"Day of Remembrance of the Victims of the Rwanda,World Health Day[10]",
+    "April 7":"Day of Remembrance of the Victims of the Rwanda,World Health Day",
     "April 8":"International Romani Day",
     "April 17":"World Hemophilia Day",
     "April 18":"International Day For Monuments and Sites",
-    "April 20" :"international day for cannabis-related protests and events",
+    "April 20" :"International day for cannabis-related protests and events",
     "April 22":"International Mother Earth Day",
-    "April 23":"World Book and Copyright Day, English Language Day[12]",
+    "April 23":"World Book and Copyright Day, English Language Day",
     "April 24":"World Day for Laboratory Animals",
-    "April 25":"World Malaria Day[10]",
+    "April 25":"World Malaria Day",
     "April 26":"World Intellectual Property Day",
     "April 28":"World Day for Safety and Health at Work",
-    "April 29":"Day of Remembrance for all Victims of Chemical Warfare, nternational Dance Day, International Bee Day[13]",
+    "April 29":"Day of Remembrance for all Victims of Chemical Warfare, nternational Dance Day, International Bee Day",
     "April 30":"International Jazz Day",
-    "May 1": "May Day: International Workers' Day",
+    "May 1": "May Day, International Workers' Day",
     "May 3":"World Press Freedom Day",
     "May 4":"International Firefighters' Day: Star Wars Day",
     "May 5":"International Midwives Day",
@@ -166,7 +166,7 @@ function getAnniversaryForDayOfMonth(dayAndMonth) {
     "November 29":"International Day of Solidarity with the Palestinian People",
     "3rd Thu in Nov":"World Philosophy Day",
     "3rd Sun in Nov":"World Day of Remembrance for Road Traffic Victims",
-    "December 1":"World AIDS Day[10]",
+    "December 1":"World AIDS Day",
     "December 2":"International Day for the Abolition of Slavery",
     "December 3":"International Day of Persons with Disabilities",
     "December 4":"International Cheetah Day",
@@ -177,7 +177,7 @@ function getAnniversaryForDayOfMonth(dayAndMonth) {
     "December 11":"International Mountain Day",
     "December 18":"International Migrants Day",
     "December 20":"International Human Solidarity Day",
-    "December 29":"International Cello Day[22]"
+    "December 29":"International Cello Day"
 
   };
 
@@ -196,9 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
       curMonth = months[objToday.getMonth()]
  ;
 
-
   renderStatus(getAnniversaryForDayOfMonth(curMonth+' '+dayOfMonth));
   // renderStatus(registeredDays('June 1'));
-
 
 });
