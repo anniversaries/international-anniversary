@@ -1,7 +1,7 @@
 /**
  * Created by toubou91 on 26/08/2017.
  */
-var registeredAnniversaries = {
+var anniversaries = {
     "January 1": "New Year's Day",
     "January 4": "World Braille Day",
     "January 11": "International Parity at Work Day",
