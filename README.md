@@ -7,4 +7,5 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 </p>
 
 ### Credits
-Many thanks to http://www.iconarchive.com which provided the logo for this extension.
+- [Wikipedia](https://en.wikipedia.org/wiki/List_of_international_observances)
+- http://www.iconarchive.com
