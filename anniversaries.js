@@ -160,7 +160,7 @@ var anniversaries = {
     "November 15": "Day of the Imprisoned Writer",
     "November 16": "International Day for Tolerance",
     "November 17": "International Students Day, World Prematurity Day, International Candidate Attorney Day",
-    "November 19": "International Men's Day (Trinidad and Tobago, Jamaica, Australia, India, United States, Singapore, Malta, United Kingdom, South Africa, Hungary, Ireland, Ghana, Canada, Denmark, Austria, France, Pakistan, Antigua and Barbuda, St. Kitts and Nevis and Grenada)",
+    "November 19": "International Men's Day",
     "November 20": "Universal Children's Day, Transgender Day of Remembrance, Africa Industrialization Day",
     "November 21": "World Television Day, World Hello Day",
     "November 25": "International Day for the Elimination of Violence against Women",
