@@ -1,5 +1,5 @@
 function getAnniversaryForDayOfMonth(dayAndMonth) {
-  return anniversaries[dayAndMonth] !== undefined ? anniversaries[dayAndMonth] : 'Nothing special today :-)';
+  return anniversaries[dayAndMonth] !== undefined ? anniversaries[dayAndMonth] : 'Nothing special today';
 }
 
 function renderStatus(statusText) {
