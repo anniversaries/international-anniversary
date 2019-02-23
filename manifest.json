@@ -1,9 +1,9 @@
 {
  "manifest_version": 2,
- "name": "International Anniversary",
- "short_name": "JubileeToday",
+ "name": "Today We Celebrate",
+ "short_name": "todaywecelebr8",
  "description": "What is the world celebrating today?",
- "version": "0.2.3",
+ "version": "1.0.0",
 
  "author": "Thodoris Bais",
 
